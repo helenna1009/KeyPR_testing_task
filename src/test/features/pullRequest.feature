@@ -1,5 +1,6 @@
 Feature: Basic pull request tests for GIT
 
+
 Scenario: Autorized user can get a single pull request
 Given user is logged in
 When user retrieves single pull request
